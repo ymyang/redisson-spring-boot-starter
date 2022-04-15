@@ -1,0 +1,5 @@
+
+# redis
+redis:
+  host: 192.168.118.121
+  port: 6379
